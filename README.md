@@ -5,6 +5,10 @@ This is the README.md file to describe my first repository project. This will gi
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
+- [TOOLS USED](#Tools-Used)
+- [FILES USED](#Files-Used)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [ADDITIONAL INFORMATION](#Additional-information)
 
 
 ## Project Title  
@@ -18,4 +22,16 @@ Practice using GitHub by creating a sample repository. Make sure you add a descr
 ## Tools Used  
 
 Discussed all programming languages and tools used in this project. This could include Python, SQL, Excel, Power BI, websites, and more.  
+
+## Files Used  
+
+All the files that were used in this project.  
+
+## How to run program  
+
+All the instructions on how to run the program in whatever programming language we are using.  
+
+## Additional informaiton  
+
+Any additional information that's needed to add context or understanding to the project.
 
