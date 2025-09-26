@@ -35,3 +35,16 @@ All the instructions on how to run the program in whatever programming language 
 
 Any additional information that's needed to add context or understanding to the project.
 
+For now, I'm going to add a few additional Markdown Options:  
+
+**BOLD** text  
+
+*Italics* text  
+
+~~Strikethrough~~ text  
+
+***Bold and Italics*** text  
+
+> Quote informaiton
+
+
